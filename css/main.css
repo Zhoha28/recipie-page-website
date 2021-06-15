@@ -235,12 +235,12 @@ hr {
     display: flex;
     justify-content: center;
     /* padding: 1.5em 0; */
-    flex-direction: column;
-    flex-wrap: wrap;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
     /* margin: 1em; */
 }
 .dish-gallery img{
-  width:100%;
+  width: 30%;
   height: auto;
 }
 }
